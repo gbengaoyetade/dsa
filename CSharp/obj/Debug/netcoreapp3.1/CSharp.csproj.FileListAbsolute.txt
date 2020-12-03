@@ -1,0 +1,12 @@
+/Users/andeladeveloper/workspace/dsa/CSharp/bin/Debug/netcoreapp3.1/CSharp.deps.json
+/Users/andeladeveloper/workspace/dsa/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.json
+/Users/andeladeveloper/workspace/dsa/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.dev.json
+/Users/andeladeveloper/workspace/dsa/CSharp/bin/Debug/netcoreapp3.1/CSharp.dll
+/Users/andeladeveloper/workspace/dsa/CSharp/bin/Debug/netcoreapp3.1/CSharp.pdb
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.csprojAssemblyReference.cache
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfoInputs.cache
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfo.cs
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.csproj.CoreCompileInputs.cache
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.dll
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.pdb
+/Users/andeladeveloper/workspace/dsa/CSharp/obj/Debug/netcoreapp3.1/CSharp.genruntimeconfig.cache

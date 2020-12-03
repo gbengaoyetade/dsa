@@ -43,7 +43,7 @@ class Tree  {
     this.right && this.right.inOrder()
   }
 
-  bsf() {
+  bfs() {
     const queue = [this];
 
     while(queue.length) {
